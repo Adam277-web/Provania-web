@@ -1,2 +1,2 @@
-# Provania-web
-Toto je web pro můj server Provania.
+Toto je můj web , je pro můj server Provania.
+A taky mám rád pizzu.
